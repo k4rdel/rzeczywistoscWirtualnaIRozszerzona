@@ -1,3 +1,34 @@
+.index nav{
+    text-align: center;
+}
+
+.index .tytul{
+    text-align: center; 
+    color: green;
+}
+
+.index .text{
+    width: 100%; 
+    text-align: justify; 
+    font-style: italic; 
+    margin: 1px 0 1px 0;
+}
+
+.index .columns{
+    display: flex;
+    flex-direction: row;
+}
+
+@media only screen and (max-width: 425px) {
+    .index .columns{
+        flex-direction: column;
+    }
+}
+
+.index .links a:hover{
+    background-color: blue;
+}
+
 .dane h1{
     text-align: center;
     margin-bottom: 1cm;
@@ -10,4 +41,5 @@
 .dane thead td{
     background-color: black;
     color: white;
+
 }
