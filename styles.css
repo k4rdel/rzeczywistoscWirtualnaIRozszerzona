@@ -93,3 +93,15 @@
     margin-bottom: 1cm;
 
 }
+
+.style h1{
+    margin: 1cm;
+    text-align: center;
+}
+#ol1 li{
+    list-style: upper-latin;
+    font-weight: bold;
+}
+#ol1{
+    border: solid black 1px;
+}
