@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<virtualAndAugmentedRealityHeadsets>
+    <SonyPlayStationVR>
+        <name>Sony PlayStation VR</name>
+        <screensize jednostka="cale">5,7</screensize>
+        <refreshrate>90 Hz. 120 Hz.</refreshrate>
+    </SonyPlayStationVR>
+    <valveindex>
+        <name>Valve Index</name>
+        <screensize jednostka="pixels per eye">1440 x 1600</screensize>
+        <refreshrate>80,90,120,144 HZ</refreshrate>
+    </valveindex>
+    <metaquest>
+        <name>Meta Quest 3</name>
+        <screensize jednostka="px">4128 x 2208</screensize>
+        <refreshrate>72,80,90,120 HZ</refreshrate>
+    </metaquest>
+    <htcvivepro2>
+        <name>Gogle VR HTC VIVE Pro 2</name>
+        <screensize jednostka="px">4896 x 2448</screensize>
+        <refreshrate>120 HZ</refreshrate>
+    </htcvivepro2>
+</virtualAndAugmentedRealityHeadsets>

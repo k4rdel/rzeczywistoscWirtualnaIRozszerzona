@@ -1,0 +1,21 @@
+[
+    {
+        "name": "SonyPlayStationVR",
+        "screensize": 5.7,
+        "refreshrate": 120,
+        "VR": true
+    },
+    {
+        "name": "Valve Index",
+        "screensize": 6.01,
+        "refreshrate": 144,
+        "VR": true
+    },
+    {
+        "name":"Meta Quest 3",
+        "screensize": 3.9,
+        "refreshrate":120,
+        "VR": true
+    }
+
+]
