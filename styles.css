@@ -1,45 +1,48 @@
-.index nav{
-    text-align: center;
+.task3{
+    font-family: Arial, sans-serif;
 }
-
-.index .tytul{
-    text-align: center; 
-    color: green;
-}
-
-.index .text{
-    width: 100%; 
-    text-align: justify; 
-    font-style: italic; 
-    margin: 1px 0 1px 0;
-}
-
-.index .columns{
-    display: flex;
-    flex-direction: row;
-}
-
-@media only screen and (max-width: 425px) {
-    .index .columns{
-        flex-direction: column;
-    }
-}
-
-.index .links a:hover{
-    background-color: blue;
-}
-
-.dane h1{
+.task3 h1{
     text-align: center;
     margin-bottom: 1cm;
 }
-
-.dane table td{
-    border: 1px solid black;
+.img{
+    border: 5px solid black;
+    padding: 3px;
+    width: 400px;
+    height: 300px;
+    margin-bottom: 1cm;
 }
-
-.dane thead td{
-    background-color: black;
+.link{
+    display: block;
+    font-size: 18px;
+    text-decoration: none;
+    color: blue;
+}
+.task4 {
+    font-family: Arial, sans-serif;
+}
+.task4 form div {
+    margin-bottom: 15px; 
+}
+.task4 label {
+    display: block; 
+    margin-bottom: 5px;
+}
+.green-button{
+    background-color: orange;
     color: white;
+}
+.red-button{
+    background-color: orange;
+    color: white;
+    margin-left: 1cm;
+}
+.task4 input[type="text"] {
+  background-color: blue;
+  color: white;
 
+}
+.task4 h1{
+    text-align: center;
+    margin-bottom: 1cm;
 }
