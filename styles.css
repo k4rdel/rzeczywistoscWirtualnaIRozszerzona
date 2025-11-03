@@ -1,46 +1,13 @@
-.task3{
-    font-family: Arial, sans-serif;
-}
-.task3 h1{
+.style h1{
+    margin: 1cm;
     text-align: center;
-    margin-bottom: 1cm;
 }
-.img{
-    border: 5px solid black;
-    padding: 3px;
-    width: 400px;
-    height: 300px;
-    margin-bottom: 1cm;
+#ol1 li{
+    list-style: upper-latin;
+    font-weight: bold;
 }
-.link{
-    display: block;
-    font-size: 18px;
-    text-decoration: none;
-    color: blue;
-}
-.task4 {
-    font-family: Arial, sans-serif;
-}
-.task4 form div {
-    margin-bottom: 15px; 
-}
-.task4 label {
-    display: block; 
-    margin-bottom: 5px;
-}
-.green-button{
-    background-color: orange;
-    color: white;
-}
-.red-button{
-    background-color: orange;
-    color: white;
-    margin-left: 1cm;
-}
-.task4 input[type="text"] {
-  background-color: blue;
-  color: white;
-
+#ol1{
+    border: solid black 1px;
 }
 .task4 h1{
     text-align: center;
